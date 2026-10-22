@@ -14,7 +14,7 @@
 
 </div>
 
-# Gidion John Mlay
+# Gidion Mlay
 ### Software Engineer & Product Builder
 
 Engineering digital products from idea to production.
@@ -83,22 +83,6 @@ I value:
 - 🔐 Exploring cybersecurity and secure application design
 - 🧪 Refining ideas into usable software products
 - 🚀 Turning concepts into real solutions with measurable value
-
----
-
-## Featured Projects
-
-### Adhimu Safaris
-A travel and safari brand website focused on presentation, user experience, and business visibility.
-
-### Smartfy Website
-A modern web project centered on clean design, responsiveness, and strong digital branding.
-
-### Survey
-A practical application project emphasizing interactive workflows, structure, and user-centered design.
-
-### Elimu Space
-An educational platform concept focused on usability and digital product thinking.
 
 ---
 
